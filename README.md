@@ -1,4 +1,4 @@
-#  Project 2 — Data Classification Using AI (KNN)
+# 🌸 Project 2 — Data Classification Using AI (KNN)
 
 > **DecodeLabs Industrial Training Kit | Batch 2026**
 
@@ -47,8 +47,8 @@ Feature Scaling        KNN Algorithm           F1 Score
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/decodelabs-ai-project2.git
-cd decodelabs-ai-project2
+git clone https://github.com/mumiz-ops/decodelabs-ai-project2.git
+cd mumiz-ops-ai-project2
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -99,7 +99,8 @@ decodelabs-ai-project2/
 
 ---
 
-## 🏢 About
+## 👤 Author
 
-**DecodeLabs** | Greater Lucknow, India
-📧 decodelabs.tech@gmail.com | 🌐 www.decodelabs.tech
+**Mumiz Ahmad**
+📧 mumizahmad30@gmail.com
+🏢 DecodeLabs Internship | Batch 2026
